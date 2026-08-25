@@ -13,6 +13,10 @@ Your job is to:
 5. implement the new stakeholder request; and
 6. use tests and engineering evidence to show that both old and new behavior are correct.
 
+## Stakeholder Request
+
+Read [`FEATURE_REQUEST.md`](FEATURE_REQUEST.md) before beginning the feature work. **Do not jump directly to implementation.** The request is intentionally designed to expose places where the current structure makes change riskier than it should be.
+
 ## Important
 
 Do **not** begin by rewriting the application. First run it, inspect it, and run the existing tests.
